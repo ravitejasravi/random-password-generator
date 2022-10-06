@@ -1,6 +1,6 @@
 # random-password-generator
 A simple password generator.
-To generate password it uses all combinations like like Uppercase, lowercase letters, numbers and special characters.
+To generate password it uses all combinations like Uppercase, lowercase letters, numbers and special characters.
 
     from password_generator import robust
 
